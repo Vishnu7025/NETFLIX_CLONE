@@ -1,4 +1,6 @@
-# NETFLIX_CL
+# NETFLIX_with_React
+![Screenshot (47)](https://user-images.githubusercontent.com/105106551/208229380-9096d807-9c83-409c-b5d3-a92cf4de307f.png)
+
 ### Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
